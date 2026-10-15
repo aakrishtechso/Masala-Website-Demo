@@ -1,0 +1,6 @@
+{
+  "name": "Veda Masala - Authentic Indian Spices",
+  "description": "Premium handcrafted Indian spices and artisanal masalas bringing authentic, extraordinary everyday flavor to your kitchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
